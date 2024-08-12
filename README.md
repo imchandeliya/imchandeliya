@@ -1,4 +1,5 @@
 ## Hi there 👋
+## I am Aditya Chandeliya
 
 <!--
 **imchandeliya/imchandeliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working with [Thoughtworks India](https://www.thoughtworks.com/en-in/about-us/our-purpose)
+- 🌱 I’m currently working on: Java, Springboot, GCP
+- 👯 I’m looking to collaborate on: Open source spring-boot projects
+- 💬 Ask me about Springboot and Java-related stuff
+- 📫 How to reach me: via my LinkedIn profile [Aditya Chandeliya](https://www.linkedin.com/in/adityachandeliya/)
+- 😄 Pronouns: He/Him
