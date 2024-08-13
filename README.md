@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Aditya Chandeliya!
 
+[Find my Resume here](/resume/resume_aditya_chandeliya.pdf)<br/>
+
 Welcome to my GitHub! I'm an experienced **Software Consultant** with over 6 years of expertise in **backend development**. My passion lies in creating scalable, efficient, and robust microservices, primarily using **Spring Boot** and deploying them on **Google Cloud Platform (GCP)**.
 
 ## 🚀 About Me
