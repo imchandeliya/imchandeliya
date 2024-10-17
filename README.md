@@ -33,6 +33,10 @@ I specialize in creating backend systems that are not just functional but also h
 - **Event-Driven Systems**: Utilizing Kafka and Google Pub/Sub for asynchronous communication and real-time data processing.
 - **Cloud Deployment**: Leveraging GCP for deploying, managing, and scaling applications in a cloud-native environment.
 
+## 🤯 My Side-Kick
+
+Building [Absolute Bonkers](https://github.com/absolute-bonkers), a one stop github organisation to have enterprise level examples and application of system design concepts. 
+
 ## 🌱 Always Learning
 
 Technology is ever-evolving, and so am I. I constantly explore new tools, frameworks, and methodologies to sharpen my skills. I'm diving deeper into advanced observability and security practices in cloud-native applications.
