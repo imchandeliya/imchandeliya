@@ -45,6 +45,7 @@ Technology is ever-evolving, and so am I. I constantly explore new tools, framew
 
 - 💼 **LinkedIn**: [Aditya Chandeliya](https://www.linkedin.com/in/adityachandeliya)
 - 📧 **Email**: [adityachandeliya@gmail.com](mailto:adityachandeliya@gmail.com)
+- 👾**Discord**: [im_chandeliya](https://discord.com/users/659732454579503115)
 
 Whether you're interested in collaborating on a project, discussing technology trends, or just having a friendly chat, feel free to reach out!
 
