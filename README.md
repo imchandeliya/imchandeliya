@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Aditya Chandeliya!
 
-[Find my Resume here](/resume/resume_aditya_chandeliya.pdf)<br/>
+[![Resume](https://img.shields.io/badge/Download-Resume-blue)](https://github.com/imchandeliya/imchandeliya/blob/main/resume/resume_aditya_chandeliya.pdf)
 
 Welcome to my GitHub! I'm an experienced **Software Consultant** with over 6 years of expertise in **backend development**. My passion lies in creating scalable, efficient, and robust microservices, primarily using **Spring Boot** and deploying them on **Google Cloud Platform (GCP)**.
 
@@ -35,7 +35,8 @@ I specialize in creating backend systems that are not just functional but also h
 
 ## 🤯 My Side-Kick
 
-Building [Absolute Bonkers](https://github.com/absolute-bonkers), a one stop github organisation to have enterprise level examples and application of system design concepts. 
+Building [Absolute Bonkers](https://github.com/absolute-bonkers), a one stop github organisation to have enterprise level examples and application of system design concepts.<br> 
+Check it out 👉🏻 [![GitHub Org](https://img.shields.io/badge/GitHub-Organization-181717?logo=github&logoColor=white&style=flat)](https://github.com/)
 
 ## 🌱 Always Learning
 
@@ -43,9 +44,10 @@ Technology is ever-evolving, and so am I. I constantly explore new tools, framew
 
 ## 🌍 Let's Connect
 
-- 💼 **LinkedIn**: [Aditya Chandeliya](https://www.linkedin.com/in/adityachandeliya)
-- 📧 **Email**: [adityachandeliya@gmail.com](mailto:adityachandeliya@gmail.com)
-- 👾**Discord**: [im_chandeliya](https://discord.com/users/659732454579503115)
+[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn-500%2B%20followers-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/adityachandeliya/)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Me-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.com/users/659732454579503115)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/im_chandliya/)
+[![X](https://img.shields.io/badge/X-Profile-1DA1F2?logo=x&logoColor=white&style=flat)](https://x.com/IM_CHANDELIYA)
 
 Whether you're interested in collaborating on a project, discussing technology trends, or just having a friendly chat, feel free to reach out!
 
