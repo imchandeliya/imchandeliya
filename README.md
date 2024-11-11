@@ -99,7 +99,7 @@ Whether you're interested in collaborating on a project, discussing technology t
 Beyond coding, I'm passionate about mentoring and have created Java programming tutorials that have reached over 5000 learners on Unacademy.
 
 ## 🎮 Hobbies
-![Travelling](https://img.shields.io/badge/Tech%20Stack-Mountains%20%7C%20Rivers%20%7C%20Road%20Trips-informational?style=flat&color=2D9EE0)<br>
+![Travelling](https://img.shields.io/badge/Travelling-Mountains%20%7C%20Rivers%20%7C%20Road%20Trips-informational?style=flat&color=2D9EE0)<br>
 ![Music](https://img.shields.io/badge/Music-EDM%20%7C%20Country%20%7C%20Punjabi%20%7C%20Old%20Bollywood-%23FF5F5F?style=flat)<br>
 ![Games](https://img.shields.io/badge/Games-Genshin%20Impact-%235A8AD4?style=flat&logo=genshin-impact&logoColor=white)
 
